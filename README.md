@@ -1,2 +1,2 @@
-# DNN-fruit-quality
-Deep Neural Network Based Fruit Quality Detection Algo
+# CNN-fruit-quality
+Convolutional Neural Network Based Fruit Quality Detection Algo
